@@ -27,7 +27,7 @@ export default class codigo extends Component {
 
          axios({
              method: 'POST',
-             url: "http://documente-env.eba-pb2a4dyw.us-east-1.elasticbeanstalk.com/login/claveDinamica",
+             url: "https://documente-env.eba-pb2a4dyw.us-east-1.elasticbeanstalk.com/loginTest/claveDinamica",
              data: {
                  email: email,
                  pass: pass,

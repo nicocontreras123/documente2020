@@ -1,0 +1,43 @@
+
+
+ .topnav {
+    background-color: #515151;
+    overflow: hidden;
+  }
+
+  .logo-imgh {
+    width: 100px;
+    height: auto;
+    float: left;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+  }
+  .logoout-img {
+    width: 20px;
+    height: auto;
+    position: relative;
+    float: right;
+    padding-left: 5px;
+  }
+  .h1m{
+    font-size: 28px;
+    text-align: left;
+    color: white;
+    margin-top: 2rem;
+  }
+
+  .topnav-right {
+    float: right;
+  }
+
+  button{
+    background-color: blanchedalmond;
+  }
+
+  .csesion{
+    font-size: 12px;
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 11px;
+  }
